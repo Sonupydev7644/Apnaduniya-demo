@@ -1,4 +1,4 @@
 # Apnaduniya-demo
 This is my first git Repository. 
 <br>
-Author :- sonu kashyap
+Author :- sonu kumar (kashyap)
